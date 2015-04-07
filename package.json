@@ -1,0 +1,11 @@
+{
+	"author" : "fireaxil",
+	"name" : "nodejslab.fireaxil",
+	"version" : "0.1.1",
+	"description" : "Basic Static HTTP Server",
+	"main" : "http_sever_static",
+	"dependencies" : {},
+	"engines" : {
+		"node" : "*"
+	}
+}
